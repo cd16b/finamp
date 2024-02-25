@@ -76,6 +76,11 @@ dependencies:
   mini_music_visualizer: ^1.0.2
   balanced_text: ^0.0.3
   flutter_to_airplay: ^2.0.4
+  wear:
+    git:
+      url: https://github.com/Ghostman312/flutter_wear_plugin.git
+      branch: master
+  wearable_rotary: ^2.0.2
 
 dev_dependencies:
   flutter_test:
