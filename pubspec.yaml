@@ -54,6 +54,11 @@ dependencies:
   package_info_plus: ^4.1.0
   octo_image: ^2.0.0
   share_plus: ^7.1.0
+  wear:
+    git:
+      url: https://github.com/Ghostman312/flutter_wear_plugin.git
+      branch: master
+  wearable_rotary: ^2.0.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
